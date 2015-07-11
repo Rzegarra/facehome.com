@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=VCC Pin=ws1-1
+Removed Pin From Net: NetName=VCC Pin=ws1-1
+Removed Pin From Net: NetName=VCC Pin=ws1-1
+Removed Pin From Net: NetName=Netws1_2 Pin=ws1-2
+Removed Pin From Net: NetName=GND Pin=ws1-3
+Removed Pin From Net: NetName=GND Pin=ws1-3
+Removed Pin From Net: NetName=GND Pin=ws1-3
+Removed Pin From Net: NetName=Netws1_2 Pin=ws1-4
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=ws1 NewDesignator=ws2
+Added Pin To Net: NetName=Netws1_2 Pin=ws1-2
+Added Pin To Net: NetName=Netws1_2 Pin=ws2-4
+Added Member To Class: ClassName=panel Member=Component C2 approved sub OK
+Added Member To Class: ClassName=panel Member=Component ws2 Component_1

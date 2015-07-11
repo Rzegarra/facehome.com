@@ -1,0 +1,246 @@
+Added Component: Designator=C13(CAPC1608X90N)
+Added Component: Designator=C14(CAPC1608X90N)
+Added Component: Designator=C15(CAPC1608X90N)
+Added Component: Designator=C16(CAPC1608X90N)
+Added Component: Designator=C17(CAPC1608X90N)
+Added Component: Designator=C18(CAPC1608X90N)
+Added Component: Designator=C19(CAPC1608X90N)
+Added Component: Designator=C20(CAPC1608X90N)
+Added Component: Designator=C21(CAPC1608X90N)
+Added Component: Designator=C22(CAPC1608X90N)
+Added Component: Designator=C23(CAPC1608X90N)
+Added Component: Designator=C24(CAPC1608X90N)
+Added Component: Designator=C25(CAPC1608X90N)
+Added Component: Designator=C26(CAPC1608X90N)
+Added Component: Designator=C27(CAPC1608X90N)
+Added Component: Designator=C28(CAPC1608X90N)
+Added Component: Designator=C29(CAPC1608X90N)
+Added Component: Designator=C30(CAPC1608X90N)
+Added Component: Designator=C31(CAPC1608X90N)
+Added Component: Designator=C32(CAPC1608X90N)
+Added Component: Designator=C33(CAPC1608X90N)
+Added Component: Designator=C34(CAPC1608X90N)
+Added Component: Designator=C35(CAPC1608X90N)
+Added Component: Designator=ws13(SOP4)
+Added Component: Designator=ws14(SOP4)
+Added Component: Designator=ws15(SOP4)
+Added Component: Designator=ws16(SOP4)
+Added Component: Designator=ws17(SOP4)
+Added Component: Designator=ws18(SOP4)
+Added Component: Designator=ws19(SOP4)
+Added Component: Designator=ws20(SOP4)
+Added Component: Designator=ws21(SOP4)
+Added Component: Designator=ws22(SOP4)
+Added Component: Designator=ws23(SOP4)
+Added Component: Designator=ws24(SOP4)
+Added Component: Designator=ws25(SOP4)
+Added Component: Designator=ws26(SOP4)
+Added Component: Designator=ws27(SOP4)
+Added Component: Designator=ws28(SOP4)
+Added Component: Designator=ws29(SOP4)
+Added Component: Designator=ws30(SOP4)
+Added Component: Designator=ws31(SOP4)
+Added Component: Designator=ws32(SOP4)
+Added Component: Designator=ws33(SOP4)
+Added Component: Designator=ws34(SOP4)
+Added Component: Designator=ws35(SOP4)
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VCC Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VCC Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=VCC Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=VCC Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VCC Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=VCC Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=VCC Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=VCC Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=VCC Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=VCC Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=VCC Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=VCC Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=VCC Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=VCC Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=VCC Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCC Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VCC Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=VCC Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=VCC Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=VCC Pin=ws13-1
+Added Pin To Net: NetName=GND Pin=ws13-3
+Added Pin To Net: NetName=VCC Pin=ws14-1
+Added Pin To Net: NetName=GND Pin=ws14-3
+Added Pin To Net: NetName=VCC Pin=ws15-1
+Added Pin To Net: NetName=GND Pin=ws15-3
+Added Pin To Net: NetName=VCC Pin=ws16-1
+Added Pin To Net: NetName=GND Pin=ws16-3
+Added Pin To Net: NetName=VCC Pin=ws17-1
+Added Pin To Net: NetName=GND Pin=ws17-3
+Added Pin To Net: NetName=VCC Pin=ws18-1
+Added Pin To Net: NetName=GND Pin=ws18-3
+Added Pin To Net: NetName=VCC Pin=ws19-1
+Added Pin To Net: NetName=GND Pin=ws19-3
+Added Pin To Net: NetName=VCC Pin=ws20-1
+Added Pin To Net: NetName=GND Pin=ws20-3
+Added Pin To Net: NetName=VCC Pin=ws21-1
+Added Pin To Net: NetName=GND Pin=ws21-3
+Added Pin To Net: NetName=VCC Pin=ws22-1
+Added Pin To Net: NetName=GND Pin=ws22-3
+Added Pin To Net: NetName=VCC Pin=ws23-1
+Added Pin To Net: NetName=GND Pin=ws23-3
+Added Pin To Net: NetName=VCC Pin=ws24-1
+Added Pin To Net: NetName=GND Pin=ws24-3
+Added Pin To Net: NetName=VCC Pin=ws25-1
+Added Pin To Net: NetName=GND Pin=ws25-3
+Added Pin To Net: NetName=VCC Pin=ws26-1
+Added Pin To Net: NetName=GND Pin=ws26-3
+Added Pin To Net: NetName=VCC Pin=ws27-1
+Added Pin To Net: NetName=GND Pin=ws27-3
+Added Pin To Net: NetName=VCC Pin=ws28-1
+Added Pin To Net: NetName=GND Pin=ws28-3
+Added Pin To Net: NetName=VCC Pin=ws29-1
+Added Pin To Net: NetName=VCC Pin=ws30-1
+Added Pin To Net: NetName=VCC Pin=ws31-1
+Added Pin To Net: NetName=VCC Pin=ws32-1
+Added Pin To Net: NetName=VCC Pin=ws33-1
+Added Pin To Net: NetName=VCC Pin=ws34-1
+Added Pin To Net: NetName=VCC Pin=ws35-1
+Added Pin To Net: NetName=Netws12_2 Pin=ws12-2
+Added Pin To Net: NetName=Netws12_2 Pin=ws13-4
+Added Net: Name=Netws12_2
+Added Pin To Net: NetName=Netws13_2 Pin=ws13-2
+Added Pin To Net: NetName=Netws13_2 Pin=ws14-4
+Added Net: Name=Netws13_2
+Added Pin To Net: NetName=Netws14_2 Pin=ws14-2
+Added Pin To Net: NetName=Netws14_2 Pin=ws15-4
+Added Net: Name=Netws14_2
+Added Pin To Net: NetName=Netws15_2 Pin=ws15-2
+Added Pin To Net: NetName=Netws15_2 Pin=ws16-4
+Added Net: Name=Netws15_2
+Added Pin To Net: NetName=Netws16_2 Pin=ws16-2
+Added Pin To Net: NetName=Netws16_2 Pin=ws17-4
+Added Net: Name=Netws16_2
+Added Pin To Net: NetName=Netws17_2 Pin=ws17-2
+Added Pin To Net: NetName=Netws17_2 Pin=ws18-4
+Added Net: Name=Netws17_2
+Added Pin To Net: NetName=Netws18_2 Pin=ws18-2
+Added Pin To Net: NetName=Netws18_2 Pin=ws19-4
+Added Net: Name=Netws18_2
+Added Pin To Net: NetName=Netws19_2 Pin=ws19-2
+Added Pin To Net: NetName=Netws19_2 Pin=ws20-4
+Added Net: Name=Netws19_2
+Added Pin To Net: NetName=Netws20_2 Pin=ws20-2
+Added Pin To Net: NetName=Netws20_2 Pin=ws21-4
+Added Net: Name=Netws20_2
+Added Pin To Net: NetName=Netws21_2 Pin=ws21-2
+Added Pin To Net: NetName=Netws21_2 Pin=ws22-4
+Added Net: Name=Netws21_2
+Added Pin To Net: NetName=Netws22_2 Pin=ws22-2
+Added Pin To Net: NetName=Netws22_2 Pin=ws23-4
+Added Net: Name=Netws22_2
+Added Pin To Net: NetName=Netws23_2 Pin=ws23-2
+Added Pin To Net: NetName=Netws23_2 Pin=ws24-4
+Added Net: Name=Netws23_2
+Added Pin To Net: NetName=Netws24_2 Pin=ws24-2
+Added Pin To Net: NetName=Netws24_2 Pin=ws25-4
+Added Net: Name=Netws24_2
+Added Pin To Net: NetName=Netws25_2 Pin=ws25-2
+Added Pin To Net: NetName=Netws25_2 Pin=ws26-4
+Added Net: Name=Netws25_2
+Added Pin To Net: NetName=Netws26_2 Pin=ws26-2
+Added Pin To Net: NetName=Netws26_2 Pin=ws27-4
+Added Net: Name=Netws26_2
+Added Pin To Net: NetName=Netws27_2 Pin=ws27-2
+Added Pin To Net: NetName=Netws27_2 Pin=ws28-4
+Added Net: Name=Netws27_2
+Added Pin To Net: NetName=Netws28_2 Pin=ws28-2
+Added Pin To Net: NetName=Netws28_2 Pin=ws29-4
+Added Net: Name=Netws28_2
+Added Pin To Net: NetName=Netws29_2 Pin=ws29-2
+Added Pin To Net: NetName=Netws29_2 Pin=ws30-4
+Added Net: Name=Netws29_2
+Added Pin To Net: NetName=Netws30_2 Pin=ws30-2
+Added Pin To Net: NetName=Netws30_2 Pin=ws31-4
+Added Net: Name=Netws30_2
+Added Pin To Net: NetName=Netws31_2 Pin=ws31-2
+Added Pin To Net: NetName=Netws31_2 Pin=ws32-4
+Added Net: Name=Netws31_2
+Added Pin To Net: NetName=Netws32_2 Pin=ws32-2
+Added Pin To Net: NetName=Netws32_2 Pin=ws33-4
+Added Net: Name=Netws32_2
+Added Pin To Net: NetName=Netws33_2 Pin=ws33-2
+Added Pin To Net: NetName=Netws33_2 Pin=ws34-4
+Added Net: Name=Netws33_2
+Added Pin To Net: NetName=Netws34_2 Pin=ws34-2
+Added Pin To Net: NetName=Netws34_2 Pin=ws35-4
+Added Net: Name=Netws34_2
+Added Member To Class: ClassName=panel Member=Component C13 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C14 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C15 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C16 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C17 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C18 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C19 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C20 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C21 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C22 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C23 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C24 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C25 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C26 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C27 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C28 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C29 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C30 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C31 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C32 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C33 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C34 approved sub OK
+Added Member To Class: ClassName=panel Member=Component C35 approved sub OK
+Added Member To Class: ClassName=panel Member=Component ws13 Component_1
+Added Member To Class: ClassName=panel Member=Component ws14 Component_1
+Added Member To Class: ClassName=panel Member=Component ws15 Component_1
+Added Member To Class: ClassName=panel Member=Component ws16 Component_1
+Added Member To Class: ClassName=panel Member=Component ws17 Component_1
+Added Member To Class: ClassName=panel Member=Component ws18 Component_1
+Added Member To Class: ClassName=panel Member=Component ws19 Component_1
+Added Member To Class: ClassName=panel Member=Component ws20 Component_1
+Added Member To Class: ClassName=panel Member=Component ws21 Component_1
+Added Member To Class: ClassName=panel Member=Component ws22 Component_1
+Added Member To Class: ClassName=panel Member=Component ws23 Component_1
+Added Member To Class: ClassName=panel Member=Component ws24 Component_1
+Added Member To Class: ClassName=panel Member=Component ws25 Component_1
+Added Member To Class: ClassName=panel Member=Component ws26 Component_1
+Added Member To Class: ClassName=panel Member=Component ws27 Component_1
+Added Member To Class: ClassName=panel Member=Component ws28 Component_1
+Added Member To Class: ClassName=panel Member=Component ws29 Component_1
+Added Member To Class: ClassName=panel Member=Component ws30 Component_1
+Added Member To Class: ClassName=panel Member=Component ws31 Component_1
+Added Member To Class: ClassName=panel Member=Component ws32 Component_1
+Added Member To Class: ClassName=panel Member=Component ws33 Component_1
+Added Member To Class: ClassName=panel Member=Component ws34 Component_1
+Added Member To Class: ClassName=panel Member=Component ws35 Component_1

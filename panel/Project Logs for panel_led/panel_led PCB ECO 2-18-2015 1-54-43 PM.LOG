@@ -1,0 +1,27 @@
+Added Component: Designator=C1(CAPC1608X90N)
+Added Component: Designator=C1(CAPC1608X90N)
+Added Component: Designator=C1(CAPC1608X90N)
+Added Component: Designator=C1(CAPC1608X90N)
+Added Component: Designator=ws1(SOP4)
+Added Component: Designator=ws1(SOP4)
+Added Component: Designator=ws1(SOP4)
+Added Component: Designator=ws1(SOP4)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=ws1-1
+Added Pin To Net: NetName=VCC Pin=ws1-1
+Added Pin To Net: NetName=VCC Pin=ws1-1
+Added Pin To Net: NetName=VCC Pin=ws1-1
+Added Pin To Net: NetName=GND Pin=ws1-3
+Added Pin To Net: NetName=GND Pin=ws1-3
+Added Pin To Net: NetName=GND Pin=ws1-3
+Added Pin To Net: NetName=GND Pin=ws1-3
+Added Pin To Net: NetName=Netws1_2 Pin=ws1-2
+Added Pin To Net: NetName=Netws1_2 Pin=ws1-4
+Added Net: Name=Netws1_2
