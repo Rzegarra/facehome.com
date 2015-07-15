@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=p1 Old DesignItemId=Header 3 New DesignItemId=Plug
+Change Component DesignItemId : Designator=p2 Old DesignItemId=Header 3 New DesignItemId=Plug
+Change Component Footprint: Designator=p1 Old Footprint=HDR1X3 New Footprint=PIN1
+Change Component Footprint: Designator=p2 Old Footprint=HDR1X3 New Footprint=PIN1
+Change Component Comment : Designator=p1 Old Comment=Header 3 New Comment=Plug
+Change Component Comment : Designator=p2 Old Comment=Header 3 New Comment=Plug
+Added Component: Designator=p2(HDR1X3)
+Added Pin To Net: NetName=VCC Pin=p1-1
+Added Pin To Net: NetName=VCC Pin=p2-1
+Added Pin To Net: NetName=Netp2_1 Pin=p2-1
+Added Pin To Net: NetName=Netp2_1 Pin=ws1-4
+Added Net: Name=Netp2_1
+Added Member To Class: ClassName=panel Member=Component p2 Plug

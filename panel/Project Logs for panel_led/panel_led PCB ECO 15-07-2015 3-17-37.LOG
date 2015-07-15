@@ -1,0 +1,4 @@
+Added Component: Designator=p1(HDR1X3)
+Added Component: Designator=p2(HDR1X3)
+Added Member To Class: ClassName=panel Member=Component p1 Header 3
+Added Member To Class: ClassName=panel7 Member=Component p2 Header 3

@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=p2 Old DesignItemId=Header 3 New DesignItemId=Plug
+Change Component DesignItemId : Designator=p2 Old DesignItemId=Plug New DesignItemId=Header 3
+Change Component Footprint: Designator=p2 Old Footprint=HDR1X3 New Footprint=PIN1
+Change Component Footprint: Designator=p2 Old Footprint=PIN1 New Footprint=HDR1X3
+Change Component Comment : Designator=p2 Old Comment=Header 3 New Comment=Plug
+Change Component Comment : Designator=p2 Old Comment=Plug New Comment=Header 3
+Change Component Designator: OldDesignator=p2 NewDesignator=p3
+Added Pin To Net: NetName=GND Pin=p3-3
+Added Pin To Net: NetName=Netp3_2 Pin=p3-2
+Added Pin To Net: NetName=Netp3_2 Pin=ws228-2
+Added Net: Name=Netp3_2

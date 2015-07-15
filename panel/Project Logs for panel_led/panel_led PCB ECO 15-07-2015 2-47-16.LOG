@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=Netws70_2 Pin=ws70-2
+Added Pin To Net: NetName=Netws70_2 Pin=ws71-4
+Added Net: Name=Netws70_2
+Added Pin To Net: NetName=Netws105_2 Pin=ws105-2
+Added Pin To Net: NetName=Netws105_2 Pin=ws106-4
+Added Net: Name=Netws105_2
+Added Pin To Net: NetName=Netws140_2 Pin=ws140-2
+Added Pin To Net: NetName=Netws140_2 Pin=ws141-4
+Added Net: Name=Netws140_2
+Added Pin To Net: NetName=Netws175_2 Pin=ws175-2
+Added Pin To Net: NetName=Netws175_2 Pin=ws176-4
+Added Net: Name=Netws175_2
+Added Pin To Net: NetName=Netws210_2 Pin=ws210-2
+Added Pin To Net: NetName=Netws210_2 Pin=ws211-4
+Added Net: Name=Netws210_2

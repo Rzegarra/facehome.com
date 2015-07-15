@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=p3-3
+Removed Member From Class: ClassName=panel Member=p3
+Added Component: Designator=p4(PIN1)
+Added Pin To Net: NetName=GND Pin=p3-2
+Added Pin To Net: NetName=GND Pin=p4-1
+Added Pin To Net: NetName=Netp3_3 Pin=p3-3
+Added Pin To Net: NetName=Netp3_3 Pin=ws228-2
+Added Net: Name=Netp3_3
+Added Member To Class: ClassName=panel Member=Component p2 Plug
+Added Member To Class: ClassName=panel Member=Component p4 Plug
